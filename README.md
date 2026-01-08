@@ -2,9 +2,9 @@
 
 ## Hey 👋, I'm Rich Mudway
 
-I enjoy working in many areas and currently use with C#, Vite + React.js with TypeScript, Rust, Agentic AI and LLMs
+I enjoy working in many areas and currently use C#, Vite + React.js with TypeScript, Rust, Agentic AI and LLMs
 
-- ✨ C# i like the newer stuff (.NET + Asp.Net Core) not the legacy stuff. This is because i like working on Linux.
+- ✨ C# i like the newer stuff (.NET + Asp.Net Core), this is because i like working on Linux
 
 - ❤️ Yes, yes, gently falling in love with Garuda Linux... shhh 🤫🙊 don't tell Ubuntu or Mint - they're still really really good friends
 

@@ -17,15 +17,6 @@ I enjoy working in many areas and currently use C#, Vite + React.js with TypeScr
 
 - ⚡ Fun fact: I live in Thailand, but dont have a sun-tan ☀️
 
----
-
-
-My AI just told me that frustrated Windows users have only 2 real options:
-1. Throw computer out of the window
-2. Throw Windows out of the computer
-
-
-😡😡 Ok come---on-- 😭😭 👆🏻👆🏻 THAT was fun right ? 😇🤣 ==> Bad Ai... bad 🫵🏻 bad 🫵🏻, say nice things 🙏🏻🙏🏻
 
 <!-- Here are some ideas to get you started:
 
